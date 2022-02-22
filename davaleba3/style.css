@@ -1,0 +1,73 @@
+.vaxo{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    border: 5px solid black;
+    padding: 20px;
+    margin-left: 20px ;
+    margin-top: 20px ;
+}
+.content-box{
+    box-sizing: content-box;
+}
+
+.border-box{
+    box-sizing: border-box ;
+}
+.yuti1{
+    display: flex;
+}
+.yuti2{
+    display: flex;
+}
+body{
+    background-color: burlywood;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+.vaxo1{
+    background-color: aqua;
+}
+.vaxo2{
+    background-color: aquamarine;
+}
+.vaxo3{
+    background-color: rgb(255, 242, 127);
+}
+.vaxo4{
+    background-color: rgb(255, 127, 165);
+}
+.vaxo5{
+    background-color: rgb(127, 140, 255);
+}
+.vaxo6{
+    background-color: rgb(204, 127, 255);
+}
+.vaxo7{
+    background-color: rgb(255, 142, 127);
+}
+.vaxo8{
+    background-color: rgb(127, 157, 255);
+}
+.vaxo9{
+    background-color: rgb(127, 251, 255);
+}
+.vaxo10{
+    background-color: rgb(208, 127, 255);
+}
+.vaxo11{
+    background-color: rgb(240, 127, 255);
+}
+.vaxo12{
+    background-color: rgb(255, 127, 127);
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.aa{
+    height: 150px;
+    width: 150px;
+}
