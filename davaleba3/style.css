@@ -1,73 +1,61 @@
-.vaxo{
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.zoma{
     width: 200px;
     height: 200px;
-    border-radius: 15px;
-    border: 5px solid black;
-    padding: 20px;
-    margin-left: 20px ;
-    margin-top: 20px ;
-}
-.content-box{
-    box-sizing: content-box;
-}
-
-.border-box{
-    box-sizing: border-box ;
-}
-.yuti1{
-    display: flex;
-}
-.yuti2{
-    display: flex;
-}
-body{
-    background-color: burlywood;
-}
-h1{
-    color: black;
-    text-align: center;
+    border-radius: 20px;
+} 
+.vaxo img{
+    height: 400px;
+    weight: 400px;
 }
 .vaxo1{
-    background-color: aqua;
+    padding: 40px;
 }
-.vaxo2{
-    background-color: aquamarine;
+.vaxo1 p{
+    font-size: 20px;
+    color:indigo;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 40px;
+    text-decoration: underline;
+}
+.vaxo2 p{
+    font-size: 20px;
+    color:rgb(130, 48, 0);
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 40px;
+    text-decoration: underline;
 }
 .vaxo3{
-    background-color: rgb(255, 242, 127);
+    background-color: brown;
 }
 .vaxo4{
-    background-color: rgb(255, 127, 165);
+    background-color: aqua;
 }
 .vaxo5{
-    background-color: rgb(127, 140, 255);
+    background-color: blue;
 }
 .vaxo6{
-    background-color: rgb(204, 127, 255);
+    background-color: chocolate;
 }
 .vaxo7{
-    background-color: rgb(255, 142, 127);
+    background-color: crimson;
 }
 .vaxo8{
-    background-color: rgb(127, 157, 255);
+    background-color: rgb(20, 113, 220);
 }
 .vaxo9{
-    background-color: rgb(127, 251, 255);
+    background-color:blanchedalmond
 }
 .vaxo10{
-    background-color: rgb(208, 127, 255);
+    background-color:darkgoldenrod
 }
-.vaxo11{
-    background-color: rgb(240, 127, 255);
-}
-.vaxo12{
-    background-color: rgb(255, 127, 127);
-}
-img{
-    height: 200px;
-    width: 200px;
-}
-.aa{
-    height: 150px;
-    width: 150px;
+body{
+    background-color: rgb(222, 233, 122);
 }
