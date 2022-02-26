@@ -1,0 +1,61 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.zoma{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+} 
+.vaxo img{
+    height: 400px;
+    weight: 400px;
+}
+.vaxo1{
+    padding: 40px;
+}
+.vaxo1 p{
+    font-size: 20px;
+    color:indigo;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 40px;
+    text-decoration: underline;
+}
+.vaxo2 p{
+    font-size: 20px;
+    color:rgb(130, 48, 0);
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 40px;
+    text-decoration: underline;
+}
+.vaxo3{
+    background-color: brown;
+}
+.vaxo4{
+    background-color: aqua;
+}
+.vaxo5{
+    background-color: blue;
+}
+.vaxo6{
+    background-color: chocolate;
+}
+.vaxo7{
+    background-color: crimson;
+}
+.vaxo8{
+    background-color: rgb(20, 113, 220);
+}
+.vaxo9{
+    background-color:blanchedalmond
+}
+.vaxo10{
+    background-color:darkgoldenrod
+}
+body{
+    background-color: rgb(222, 233, 122);
+}
